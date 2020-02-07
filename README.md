@@ -4,7 +4,7 @@
 
 # rms-mobile-xdk-www
 
-This is the core MOLPay mobile payment module that is to be distributed as 'molpay-mobile-xdk-www' folder
+This is the core Razer Merchant Services mobile payment module that is to be distributed as 'rms-mobile-xdk-www' folder
 and integrated and used as is. There is no editable part in the source codes as they have been obfuscated
 for security reasons. This module is the core dependancy in all rms-mobile-xdk series.
 
@@ -20,12 +20,12 @@ platforms modules to produce an instant upgrade.
 
 ## Support
 
-Submit issue to this repository or email to our support@molpay.com
+Submit issue to this repository or email to our support-sa@razer.com
 
-Merchant Technical Support / Customer Care : support@molpay.com<br>
-Sales/Reseller Enquiry : sales@molpay.com<br>
-Marketing Campaign : marketing@molpay.com<br>
-Channel/Partner Enquiry : channel@molpay.com<br>
-Media Contact : media@molpay.com<br>
-R&D and Tech-related Suggestion : technical@molpay.com<br>
-Abuse Reporting : abuse@molpay.com
+Merchant Technical Support / Customer Care : support-sa@razer.com<br>
+Sales/Reseller Enquiry : sales-sa@razer.com<br>
+Marketing Campaign : marketing-sa@razer.com<br>
+Channel/Partner Enquiry : channel-sa@razer.com<br>
+Media Contact : media-sa@razer.com<br>
+R&D and Tech-related Suggestion : technical-sa@razer.com<br>
+Abuse Reporting : abuse-sa@razer.com
