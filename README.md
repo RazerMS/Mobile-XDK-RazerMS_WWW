@@ -2,7 +2,7 @@
 # license: Copyright © 2011-2019 MOLPay Sdn Bhd. All Rights Reserved. 
 -->
 
-# rms-mobile-xdk-www
+# [Mobile XDK] – RazerMS WWW
 
 <img src="https://user-images.githubusercontent.com/38641542/74424311-a9d64000-4e8c-11ea-8d80-d811cfe66972.jpg">
 
