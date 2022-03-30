@@ -20,6 +20,17 @@ wrapper modules to work.
 An upgrade version of this module can be downloaded and replace the existing module in any of the rms-mobile-xdk
 platforms modules to produce an instant upgrade.
 
+
+## Resources
+
+- GitHub:     https://github.com/RazerMS
+- Website:    https://merchant.razer.com/
+- Twitter:    https://twitter.com/Razer_MS
+- YouTube:    https://www.youtube.com/c/RazerMerchantServices
+- Facebook:   https://www.facebook.com/RazerMerchantServices/
+- Instagram:  https://www.instagram.com/RazerMerchantServices/
+
+
 ## Support
 
 Submit issue to this repository or email to our support-sa@razer.com
